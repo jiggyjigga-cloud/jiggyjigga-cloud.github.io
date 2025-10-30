@@ -1,0 +1,113 @@
+body{
+  font-family: 'Segoe UI', sans-serif;
+  line-height: 30px;
+}
+h1 {
+color: darkblue;
+font-size: 50px;
+font-weight: bold;
+margin-bottom: 50px;
+}
+h4{
+  font-weight: bold;
+  font-size: 20px;
+  margin-left: 0px;
+  margin-bottom: 20px;
+  border-left: 3px solid rgb(228, 80, 26);
+  padding-left: 10px;
+}
+.intro {
+  max-width: 2000px;
+  font-size: 18px;
+  line-height: none;
+  text-align: left;
+  background-color: lightgray;
+  padding: 10px 10px;
+  border-radius: 20px;
+}
+h2 {
+   color: darkblue;
+      font-size: 25px;
+      margin-bottom: 25px;
+      padding-bottom: 10px;
+      border-bottom: 3px solid darkblue;
+
+}
+main{ 
+margin: auto;
+padding: 10px 10px;
+    }
+section {background: white;
+      margin-bottom: 20px;
+      padding: 20px 20px;
+      border-radius: 7px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+}
+figcaption{
+  font-style: oblique;
+  opacity: 0.5;
+}
+h3 {
+  color: darkblue;
+}
+li {
+ max-width: 2000px;
+  font-size: justify;
+  line-height: 1.8;
+  text-align: justify;
+  background-color: lightgrey;
+  padding: 10px 10px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+   border-left: 3px solid orangered;
+}
+.fixture-list li:hover{
+  transform: translateX(5px);
+  box-shadow: 1px 4px 12px rgba(0,0,0,0.15);
+
+}
+#season-ticket-info {
+  max-width: 2000px;
+  background-color: #fff3cd;
+  margin-top: 50px;
+  border:2px solid;
+  border-color: #ffc107;
+  border-radius: 20px;
+  padding: 10px 10px;
+}
+.news-date {
+  color: grey;
+      font-size: 15px;
+      font-style: italic;
+      margin-bottom: 15px
+}
+
+#contact-info {
+
+  background-color: darkblue;
+  color: white;
+  padding: 15px 15px;
+  border-radius: 7px 7px;
+  text-align: center;
+}
+#contact-info h3{
+  color: white;
+  border-bottom: 2px solid white;
+      padding-bottom: 10px;
+      margin-bottom: 20px;
+  
+}
+#contact-info a {
+  color: goldenrod;
+}
+ footer {
+      background: #0d1b2a;
+      color: white;
+      text-align: center;
+      padding: 30px 20px;
+    }
+
+    footer p {
+      margin: 10px 0;
+      text-align: center;
+    }
